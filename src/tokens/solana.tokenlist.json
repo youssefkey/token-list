@@ -16897,25 +16897,7 @@
         "medium": "https://carbonfarm.medium.com/",
         "reddit": "https://www.reddit.com/user/CarbonFarm"
       }
-       {
-      "chainId": 101,
-      "address": "4CMYfMroXrG3XFQxjiL5jHTwHWvvxQKbUJyscm7ns6CT",
-      "symbol": "LIBN",
-      "name": "LIBANO",
-      "decimals": 4,
-      "logoURI": "https://imgur.com/sEiMfyn",
-      "tags": [
-        "utility-token",
-        "value-token",
-        "LIBN",
-        "LIBANO"
-      ],
-  "extensions": {
-        "website": "https://libano59.cms.webnode.com/",
-        "telegram": "https://t.me/joinchat/7Mt3JZjjIDo4ZDU0",
-        "twitter": "https://twitter.com/Libano_Official",
-    },
-   }
+    
   
   "version": {
     "major": 0,
